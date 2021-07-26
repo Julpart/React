@@ -23,6 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-text {
+  font-size: 80px;
+  font-weight: 500;
+  color: aqua;
+
+}
 
 .App-link {
   color: #61dafb;
