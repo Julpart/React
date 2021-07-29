@@ -1,5 +1,5 @@
-
 import './Message.css';
+
 export function Message(props) {
 
     return (
@@ -7,7 +7,6 @@ export function Message(props) {
           <p className="Message-text">
               {props.text}
           </p>
-     
       </div>
     );
   }
