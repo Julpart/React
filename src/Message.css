@@ -1,0 +1,17 @@
+.Message{
+    height: 90px;
+    background-color: rgb(212, 248, 236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.Message-text{
+    padding: 0;
+    margin: 0;
+    font-size: 60px;
+    color:#61DAFB;
+    
+
+    
+}
